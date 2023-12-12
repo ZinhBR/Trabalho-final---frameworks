@@ -9,10 +9,12 @@
 }
 
 .navbar {
+    display: flex;
     background-color: #000;
     min-height: 70px;
     display: flex;
     align-items: center;
+    height: 100px;
 }
 
 .navbar a {

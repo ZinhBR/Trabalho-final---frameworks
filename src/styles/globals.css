@@ -98,7 +98,13 @@ a {
   margin: 0px;
   font-family: Helvetica, sans-serif;
 }
+.nome_site{
+  color: white;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
 
+}
 h1 {
   color: #000;
 }

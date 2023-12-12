@@ -4,6 +4,7 @@ export default function Navbar() {
         <div>
             <ul className={styles.navbar}>
                 <li>
+                    <h1 className='nome_site'>Animals AUUUUUUUUUUUUUUUU</h1>
                     <a href='/'> Home </a>
                 </li>
             </ul>
